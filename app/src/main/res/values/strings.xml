@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">19SOEIT11013</string>
+    <string name="exp_string">Welcome to RK University</string>
+    <string name="enrollment">19SOEIT11013</string>
+    <string name="f_name">Raj</string>
+    <string name="m_name">Dinesh Bhai</string>
+    <string name="l_name">Vasoya</string>
+    <string name="email">rvasoya618@rku.ac.in</string>
+    <string name="password">Password</string>
+    <string name="gender">Male</string>
+    <string name="city">Jamnagar</string>
+    <string name="image">Image</string>
+</resources>
